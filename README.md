@@ -1,2 +1,2 @@
 # PHP POO
- Curso de php com programação orientado a objeto
+ Curso de Programação Orientado a Objeto com PHP para reforçar conhecimento já existentes e adicionar novos conceitos
